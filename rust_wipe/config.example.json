@@ -1,0 +1,13 @@
+﻿{
+  "dbpath": "player.blueprints.3.db",
+  "steamapikey": "",
+  "wipelist": [
+    "explosives",
+    "explosive.satchel",
+    "explosive.timed",
+    "ammo.rocket.basic",
+    "ammo.rocket.fire",
+    "ammo.rocket.hv",
+    "ammo.rifle.explosive"
+  ]
+}
